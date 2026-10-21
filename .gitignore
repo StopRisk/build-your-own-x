@@ -1,0 +1,16 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.uf2
+lib_deps/
+.vscode/extensions.json
